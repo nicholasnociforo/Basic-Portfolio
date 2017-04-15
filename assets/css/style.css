@@ -1,0 +1,211 @@
+body {
+ 
+ background-image: url("mochaGrunge.png");
+
+
+}
+
+.nav {
+	background-color: white;
+	position: absolute;
+	display: block;
+	width: 100%;
+
+
+}
+
+#name {
+	background: turquoise;
+	width: 300px;
+	margin-left: 200px;
+	height: 100%;
+	margin-top: -20px;
+	text-align: center;
+	padding-bottom: -10px;
+	font-family: "Montserrat",sans-serif;
+	padding-top: 20px;
+	color: white;
+	
+	
+
+
+}
+
+#about {
+
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	margin-right: 100px;
+	padding-right: 250px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+#port {
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	padding-right: 200px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+
+
+}
+
+#contact {
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	padding-right: 60px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+.main {
+	font-family: "Montserrat",sans-serif;
+	position: absolute;
+	width: 690px;
+	background: white;
+	top: 100px;
+	left: 207px;
+	color: turquoise;
+
+
+}
+
+img {
+
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 50px;
+}
+
+.connect {
+	position: absolute;
+	text-align: center;
+	background: white;
+	top: 100px;
+	left: 950px;
+	height: 200px;
+	width: 300px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+#CWM {
+	margin-bottom: 30px;
+}
+
+#AM {
+	padding-left: 90px;
+}
+
+#contact_form {
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.connect2 {
+
+	position: absolute;
+	background: white;
+	top: 20px;
+	left: 800px;
+	width: 300px;
+	text-align: center;
+	height: 200px;
+
+
+
+}
+
+#CWM2 {
+	margin-bottom: 60px;
+}
+
+
+.footer {
+	background: white;
+	position: absolute;
+	width: 2000px;
+	top: 500px;
+	float: left;
+	padding-left: 300px;
+	left: -300px;
+	color: white;
+}
+
+
+.footer2 {
+	background: white;
+	position: absolute;
+	width: 2000px;
+	top: 850px;
+	float: left;
+	padding-left: 300px;
+	left: -300px;
+	color: white;
+}
+
+.pic1 {
+	float: left;
+	margin-right: 70px;
+	margin-bottom: 50px;
+	left: 100px;
+	margin-left: 35px;
+}
+
+.connect3 {
+
+	position: absolute;
+	background: white;
+	top: 4px;
+	left: 800px;
+	width: 300px;
+	text-align: center;
+	height: 200px;
+}
+
+#CWM3 {
+	margin-bottom: 60px;
+}
+
+.top {
+
+	background: white;
+	position: relative;
+	top: -60px;
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+.footer3 {
+	background: white;
+	position: absolute;
+	width: 2000px;
+	top: 1020px;
+	float: left;
+	padding-left: 300px;
+	left: -300px;
+	color: white;
