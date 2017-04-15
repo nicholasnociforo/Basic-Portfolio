@@ -1,0 +1,118 @@
+body {
+ 
+ background-image: url("mochaGrunge.png");
+
+
+}
+
+.nav {
+	background-color: white;
+	position: absolute;
+	display: block;
+	width: 100%;
+
+
+}
+
+#name {
+	background: turquoise;
+	width: 300px;
+	margin-left: 200px;
+	height: 100%;
+	margin-top: -20px;
+	text-align: center;
+	padding-bottom: -10px;
+	font-family: "Montserrat",sans-serif;
+	padding-top: 20px;
+	color: white;
+	
+	
+
+
+}
+
+#about {
+
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	margin-right: 100px;
+	padding-right: 250px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+#port {
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	padding-right: 200px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+
+
+}
+
+#contact {
+
+	display: inline block;
+	position: relative;
+	float: right;
+	margin-top: -70px;
+	padding-right: 60px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+.main {
+	font-family: "Montserrat",sans-serif;
+	position: absolute;
+	width: 690px;
+	background: white;
+	top: 100px;
+	left: 207px;
+	color: turquoise;
+
+
+}
+
+img {
+
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 50px;
+}
+
+.connect {
+	position: absolute;
+	text-align: center;
+	background: white;
+	top: 100px;
+	left: 950px;
+	height: 200px;
+	width: 300px;
+	font-family: "Montserrat",sans-serif;
+	color: turquoise;
+
+}
+
+#CWM {
+	margin-bottom: 30px;
+}
+
+#AM {
+	padding-left: 90px;
+}
