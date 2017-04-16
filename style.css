@@ -5,11 +5,14 @@ body {
 
 }
 
-.nav {
+header {
 	background-color: white;
-	position: absolute;
-	display: block;
+	height: 100px;
 	width: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+
 
 
 }
@@ -18,7 +21,7 @@ body {
 	background: turquoise;
 	width: 300px;
 	margin-left: 200px;
-	height: 100%;
+	height: 100px;
 	margin-top: -20px;
 	text-align: center;
 	padding-bottom: -10px;
@@ -76,7 +79,7 @@ body {
 	position: absolute;
 	width: 690px;
 	background: white;
-	top: 100px;
+	top: 150px;
 	left: 207px;
 	color: turquoise;
 
@@ -100,7 +103,7 @@ p {
 	position: absolute;
 	text-align: center;
 	background: white;
-	top: 100px;
+	top: 150px;
 	left: 950px;
 	height: 200px;
 	width: 300px;
@@ -110,7 +113,7 @@ p {
 }
 
 #CWM {
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 }
 
 #AM {
@@ -123,7 +126,7 @@ p {
 	padding-bottom: 30px;
 }
 
-.connect2 {
+/*.connect2 {
 
 	position: absolute;
 	background: white;
@@ -133,24 +136,16 @@ p {
 	text-align: center;
 	height: 200px;
 
-
+*/
 
 }
 
 #CWM2 {
 	margin-bottom: 60px;
+	padding-bottom: 60px;
 }
 
 
-.footer {
-	background: white;
-	position: absolute;
-	width: 2000px;
-	top: 500px;
-	float: left;
-	padding-left: 300px;
-	left: -300px;
-	color: white;
 }
 
 
@@ -177,8 +172,8 @@ p {
 
 	position: absolute;
 	background: white;
-	top: 4px;
-	left: 800px;
+	top: 0px;
+	left: 745px;
 	width: 300px;
 	text-align: center;
 	height: 200px;
@@ -209,3 +204,30 @@ p {
 	padding-left: 300px;
 	left: -300px;
 	color: white;
+}
+
+footer {
+
+	background-color: white;
+	height: 100px;
+	width: 100%;
+	left: 0;
+	position: absolute;
+	bottom: 0;
+	top:900px;
+
+
+}
+
+.y {
+
+	background-color: white;
+	height: 100px;
+	width: 100%;
+	left: 0;
+	position: absolute;
+	bottom: 0;
+	top:2000px;
+	display: block;
+
+}

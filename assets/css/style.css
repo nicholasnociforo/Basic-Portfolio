@@ -97,7 +97,7 @@ p {
 }
 
 .connect {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	background: white;
 	top: 100px;
@@ -177,8 +177,8 @@ p {
 
 	position: absolute;
 	background: white;
-	top: 4px;
-	left: 800px;
+	top: 3px;
+	left: 600px;
 	width: 300px;
 	text-align: center;
 	height: 200px;
